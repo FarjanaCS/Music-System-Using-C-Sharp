@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\tryout\\tryout4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\tryout\\tryout4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\tryout\\tryout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\tryout\\tryout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\tryout\\tryout3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\tryout\\tryout3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\tryout\\tryout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\tryout\\tryout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\project_farjana_yesmin_1281481\\music_player\\music_player\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|solutionrelative:music_player\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\Program.cs",
+              "RelativeDocumentMoniker": "Music_Player\\Program.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\Program.cs",
+              "RelativeToolTip": "Music_Player\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:08:12.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TryOut4.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut4.cs",
+              "RelativeDocumentMoniker": "Music_Player\\TryOut\\TryOut4.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut4.cs",
+              "RelativeToolTip": "Music_Player\\TryOut\\TryOut4.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvxQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:06:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TryOut3.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut3.cs",
+              "RelativeDocumentMoniker": "Music_Player\\TryOut\\TryOut3.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut3.cs",
+              "RelativeToolTip": "Music_Player\\TryOut\\TryOut3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:05:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Music_Player\\Models\\Artist.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\Models\\Artist.cs",
+              "RelativeToolTip": "Music_Player\\Models\\Artist.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wBYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:55:40.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TryOut2.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut2.cs",
+              "RelativeDocumentMoniker": "Music_Player\\TryOut\\TryOut2.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut2.cs",
+              "RelativeToolTip": "Music_Player\\TryOut\\TryOut2.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:52:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TryOut1.cs",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut1.cs",
+              "RelativeDocumentMoniker": "Music_Player\\TryOut\\TryOut1.cs",
+              "ToolTip": "D:\\R59\\M3\\Projects\\Project_Farjana_Yesmin_1281481\\Music_Player\\Music_Player\\TryOut\\TryOut1.cs",
+              "RelativeToolTip": "Music_Player\\TryOut\\TryOut1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADwv10AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:50:57.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

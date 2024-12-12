@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R59\\M3\\Projects\\ToSend\\1281481\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Music_Player||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67E33C7-BBBC-4FC7-9614-3A859E634303}|Music_Player\\Music_Player.csproj|d:\\r59\\m3\\projects\\tosend\\1281481\\music_player\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Music_Player",
+              "DocumentMoniker": "D:\\R59\\M3\\Projects\\ToSend\\1281481\\Music_Player\\Music_Player.csproj",
+              "RelativeDocumentMoniker": "Music_Player\\Music_Player.csproj",
+              "ToolTip": "D:\\R59\\M3\\Projects\\ToSend\\1281481\\Music_Player\\Music_Player.csproj",
+              "RelativeToolTip": "Music_Player\\Music_Player.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T12:14:06.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
